@@ -1,3 +1,8 @@
-# Ignore ipynb checkpoints
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+# ipynb checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled
+*pycache*
+
+# .pytest_cache/
+.pytest_cache/
