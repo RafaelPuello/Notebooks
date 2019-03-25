@@ -8,7 +8,7 @@ python to perform some data cleaning and regression analysis to explore the rela
 
 ### Forecasting
 ___
-* [Forecasting Retail Turnover]() - In this project I use SAS to build and compare various models for forecasting retail turnover. IN PROGRESS
+* Forecasting Retail Turnover - In this project I use SAS to build and compare various models for forecasting retail turnover. IN PROGRESS
 
 ### Classification
 ___
