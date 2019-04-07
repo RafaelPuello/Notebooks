@@ -8,7 +8,7 @@ python to perform some data cleaning and regression analysis to explore the rela
 
 ### Forecasting
 ___
-* [Forecasting Retail Turnover](https://nbviewer.jupyter.org/github/RafaelPuello/Notebooks/blob/master/RetailTurnover.ipynb) - In this project I use SAS to build and compare various models for forecasting retail turnover. (In progress)
+* [Forecasting Retail Turnover](https://nbviewer.jupyter.org/github/RafaelPuello/Notebooks/blob/master/RetailTurnover.ipynb) - In this project I use SAS to build and compare various models for forecasting retail turnover.
 
 ### Classification
 ___
