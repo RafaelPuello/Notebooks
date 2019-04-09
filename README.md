@@ -1,5 +1,5 @@
 # Data Analysis Portfolio
-I created this repository as a way to demonstrate some of my data analysis projects.  I'm currently reading through [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) and plan to complete different projects using the methods outlined in the book.  The projects will be written in either Python, SAS, or R and displayed in a Jupyter notebook document.
+I created this repository as a way to demonstrate some of my data analysis projects.  I'm currently reading [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) and plan to complete different projects using the methods outlined in the book.  The projects will be written in either Python, SAS, or R and displayed in a Jupyter notebook document.
 
 ### Regression
 ___
